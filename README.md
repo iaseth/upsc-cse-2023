@@ -6,10 +6,10 @@ Here you can download answer keys for 2023 UPSC CSE Prelims.
 
 
 ## Paper 1 - GS
-* [Set A](https://drive.google.com/file/d/1zHi3ltN71kJBodwln0Ku4QjxvoR_R3h7/view?usp=sharing)
-* [Set B](https://drive.google.com/file/d/1Vb8Nv5iA_53IirmXGZOkkXsvABryo4Ot/view?usp=sharing)
-* [Set C](https://drive.google.com/file/d/1fzO4068VJ8uv4nv4DXN3OEP3z2JoqvW0/view?usp=sharing)
-* [Set D](https://drive.google.com/file/d/1JkMQ7gXefqTuuVxYld0sZh8NamcsaR7d/view?usp=sharing)
+* [2023 GS Set A](https://drive.google.com/file/d/1zHi3ltN71kJBodwln0Ku4QjxvoR_R3h7/view?usp=sharing)
+* [2023 GS Set B](https://drive.google.com/file/d/1Vb8Nv5iA_53IirmXGZOkkXsvABryo4Ot/view?usp=sharing)
+* [2023 GS Set C](https://drive.google.com/file/d/1fzO4068VJ8uv4nv4DXN3OEP3z2JoqvW0/view?usp=sharing)
+* [2023 GS Set D](https://drive.google.com/file/d/1JkMQ7gXefqTuuVxYld0sZh8NamcsaR7d/view?usp=sharing)
 
 
 Contains Answer keys from the following:
@@ -26,7 +26,11 @@ Contains Answer keys from the following:
 
 
 ## Paper 2 - CSAT
-Yet to add the download links.
+* [2023 CSAT Set A](https://drive.google.com/file/d/1QPf1PhQ8fPxy21wASayDlAfjKfYJSNKd/view?usp=sharing)
+* [2023 CSAT Set B](https://drive.google.com/file/d/1JJ-LbvTsb2I7ogpyhWV2Imd6b0U49Q0d/view?usp=sharing)
+* [2023 CSAT Set C](https://drive.google.com/file/d/1X0Jc1Zea0EndjZNIMMYorbQNMi9zm5eu/view?usp=sharing)
+* [2023 CSAT Set D](https://drive.google.com/file/d/1JNMxJ67PzmJARWwfsGP1I2ajpb0xkzr3/view?usp=sharing)
+
 
 Contains Answer keys from the following:
 * Drishti
